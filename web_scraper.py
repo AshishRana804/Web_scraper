@@ -7,7 +7,7 @@ visited_urls = set()
 
 # The base URL of the website we want to scrape
 # We will only scrape pages that start with this URL
-BASE_URL = "https://www.arlearningonline.com/"  # Replace with your website URL
+BASE_URL = "https://..............."  # Replace with your website URL
 
 def scrape_page(url):
     """
